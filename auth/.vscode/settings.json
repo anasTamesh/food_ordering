@@ -1,0 +1,30 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "pubspec.lock": true,
+        ".dart_tool": true,
+        ".idea": true,
+        ".vscode": true,
+        ".metadata": true,
+        ".packages": true,
+        "auth.iml": true,
+        "CHANGELOG.md": true,
+        "LICENSE": true
+    },
+    "hide-files.files": [
+        "pubspec.lock",
+        ".dart_tool",
+        ".idea",
+        ".vscode",
+        ".metadata",
+        ".packages",
+        "auth.iml",
+        "CHANGELOG.md",
+        "LICENSE"
+    ]
+}
